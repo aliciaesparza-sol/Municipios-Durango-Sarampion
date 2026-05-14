@@ -1,0 +1,17 @@
+# Datos crudos y shapefiles originales
+*.xlsx
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Archivos temporales
+cols.json
+rows.json
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
