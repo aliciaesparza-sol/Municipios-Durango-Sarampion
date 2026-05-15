@@ -1,0 +1,235 @@
+{
+  "sheets": [
+    "Comparativo 2025 vs 2026",
+    "Top Hospitales"
+  ],
+  "previews": {
+    "Comparativo 2025 vs 2026": [
+      [
+        "Biológicos: SRP (Sarampión-Rubéola-Parotiditis) y SR (Sarampión-Rubéola)",
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ],
+      [
+        "TEMPORADA / INSTITUCIÓN",
+        "SRP",
+        NaN,
+        "SR",
+        NaN,
+        "TOTAL SRP",
+        "TOTAL SR",
+        "GRAN\nTOTAL"
+      ],
+      [
+        NaN,
+        "1ª Dosis",
+        "2ª Dosis",
+        "1ª Dosis",
+        "2ª Dosis",
+        "Total SRP",
+        "Total SR",
+        "Gran Total"
+      ],
+      [
+        "  TEMPORADA 2025",
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ],
+      [
+        "  ▸ IMSS B",
+        "587",
+        "1526",
+        "495",
+        "704",
+        "2113",
+        "1199",
+        "3312"
+      ],
+      [
+        "  ▸ SSA",
+        "1043",
+        "1255",
+        "645",
+        "254",
+        "2298",
+        "899",
+        "3197"
+      ],
+      [
+        "  TOTAL TEMPORADA",
+        "1630",
+        "2781",
+        "1140",
+        "958",
+        "4411",
+        "2098",
+        "6509"
+      ],
+      [
+        "  TEMPORADA 2026",
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ],
+      [
+        "  ▸ IMSS B",
+        "121",
+        "229",
+        "2630",
+        "207",
+        "350",
+        "2837",
+        "3187"
+      ],
+      [
+        "  ▸ SSA",
+        "1898",
+        "6339",
+        "817",
+        "1529",
+        "8237",
+        "2346",
+        "10583"
+      ]
+    ],
+    "Top Hospitales": [
+      [
+        "Ordenado por total de dosis acumuladas ambas temporadas · Primeras 15 unidades de salud",
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ],
+      [
+        "CLUES",
+        "INST.",
+        "SRP\n1ª",
+        "SRP\n2ª",
+        "SR\n1ª",
+        "SR\n2ª",
+        "Total\nSRP",
+        "Total\nSR",
+        "Gran\nTotal"
+      ],
+      [
+        "  TEMPORADA 2025",
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN,
+        NaN
+      ],
+      [
+        "DGSSA003164",
+        "SSA",
+        "87",
+        "143",
+        "200",
+        NaN,
+        "230",
+        "200",
+        "430"
+      ],
+      [
+        "DGSSA003155",
+        "SSA",
+        "99",
+        "115",
+        "100",
+        "61",
+        "214",
+        "161",
+        "375"
+      ],
+      [
+        "DGIMO000591",
+        "IMSS B",
+        "45",
+        "98",
+        "160",
+        NaN,
+        "143",
+        "160",
+        "303"
+      ],
+      [
+        "DGSSA017254",
+        "SSA",
+        "56",
+        "114",
+        "80",
+        NaN,
+        "170",
+        "80",
+        "250"
+      ],
+      [
+        "DGSSA017580",
+        "SSA",
+        "42",
+        "68",
+        "130",
+        NaN,
+        "110",
+        "130",
+        "240"
+      ],
+      [
+        "DGIMO000726",
+        "IMSS B",
+        "33",
+        "158",
+        NaN,
+        "38",
+        "191",
+        "38",
+        "229"
+      ],
+      [
+        "DGSSA017341",
+        "SSA",
+        "43",
+        "27",
+        "25",
+        "125",
+        "70",
+        "150",
+        "220"
+      ]
+    ]
+  },
+  "columns": {
+    "Top Hospitales": [
+      "TOP HOSPITALES (CLUES) · MUNICIPIO DEL MEZQUITAL · 2025 Y 2026",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "Unnamed: 8"
+    ]
+  }
+}

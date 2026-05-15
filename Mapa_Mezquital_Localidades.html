@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa de Localidades Atendidas - Mezquital</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .header {
+            position: absolute; top: 20px; left: 20px;
+            z-index: 1000; background: var(--glass-bg); backdrop-filter: blur(12px);
+            padding: 24px; border-radius: 16px; border: 1px solid var(--glass-border);
+            max-width: 340px; box-shadow: var(--shadow);
+        }
+        .header h1 {
+            font-size: 1.5rem; color: #15803d; margin-bottom: 4px;
+            font-weight: 700;
+        }
+        .header p { font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 20px; }
+        .legend {
+            position: absolute; bottom: 30px; right: 20px; z-index: 1000;
+            background: var(--glass-bg); backdrop-filter: blur(10px);
+            padding: 15px; border-radius: 12px; border: 1px solid var(--glass-border);
+        }
+        .back-link {
+            color: #4f46e5; text-decoration: none; font-size: 0.9rem;
+            display: flex; align-items: center; justify-content: space-between;
+            margin-top: 15px; border-top: 1px solid var(--glass-border); padding-top: 15px;
+            font-weight: 600;
+        }
+        .locality-label {
+            background: rgba(255, 255, 255, 0.9);
+            border: 1px solid #16a34a;
+            border-radius: 4px;
+            padding: 2px 6px;
+            font-size: 10px;
+            font-weight: 700;
+            color: #166534;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Localidades Atendidas</h1>
+        <p>Mezquital, Durango | 2026</p>
+        <div style="font-size: 0.9rem; color: var(--text-primary);">
+            Zonas de cobertura de vacunación SRP/SR resaltadas en verde.
+        </div>
+        <a href="index.html" class="back-link">
+            <span>←</span> Volver al Tablero Estatal
+        </a>
+    </div>
+    <div id="map"></div>
+    <div class="legend">
+        <div style="display:flex; align-items:center; gap:10px; margin-bottom:8px;">
+            <div style="width:15px; height:15px; background:#16a34a; border-radius:50%; border:2px solid white;"></div>
+            <span>Punto de Atención</span>
+        </div>
+        <div style="display:flex; align-items:center; gap:10px;">
+            <div style="width:25px; height:15px; background:rgba(22, 163, 74, 0.3); border:1px solid #16a34a; border-radius:4px;"></div>
+            <span>Zona de Cobertura</span>
+        </div>
+    </div>
+    <script src="mezquital_boundary.js"></script>
+    <script>
+        const map = L.map('map', {
+            zoomControl: false,
+            attributionControl: false
+        }).setView([23.1, -104.7], 9);
+        
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; CartoDB'
+        }).addTo(map);
+
+        L.control.zoom({
+            position: 'bottomright'
+        }).addTo(map);
+
+        // Add Mezquital Boundary with light brown fill
+        if (typeof mezquitalBoundary !== 'undefined') {
+            L.geoJson(mezquitalBoundary, {
+                style: {
+                    color: "#000000",
+                    weight: 6, // Even thicker for state/muni division
+                    fillColor: "#eaddca", // Light Brown
+                    fillOpacity: 0.65
+                }
+            }).addTo(map);
+        }
+
+        const data = [{"locality": "STA MA. DE OCOTAN", "lat": 23.0647, "lon": -104.6547, "doses": 556, "date": "2026-02-24 00:00:00, 2026-03-03 00:00:00"}, {"locality": "LA GUAJOLOTA", "lat": 23.0114, "lon": -104.5986, "doses": 22, "date": "2026-04-23 00:00:00"}, {"locality": "HUAZAMOTITA", "lat": 22.4939, "lon": -104.5028, "doses": 588, "date": "2026-03-27 00:00:00, 2026-04-26 00:00:00"}, {"locality": "TIERRAS COLORADAS", "lat": 23.1511, "lon": -104.7522, "doses": 200, "date": "2026-04-29"}, {"locality": "LOS BANCOS", "lat": 23.2333, "lon": -104.9167, "doses": 4, "date": "20 AL 22/04/2026"}, {"locality": "AGUA CALIENTE", "lat": 23.1167, "lon": -104.8333, "doses": 2, "date": "20 AL 22/04/2026"}, {"locality": "MESA DEL LLANO", "lat": 22.95, "lon": -104.7167, "doses": 6, "date": "20 AL 22/04/2026"}, {"locality": "CIHUACORA", "lat": 23.1667, "lon": -104.6833, "doses": 15, "date": "20 AL 22/04/2026"}, {"locality": "LA ESCONDIDA", "lat": 23.25, "lon": -104.8667, "doses": 10, "date": "20 AL 22/04/2026"}, {"locality": "BUENAVISTA", "lat": 23.3333, "lon": -104.9667, "doses": 20, "date": "20 AL 22/04/2026"}, {"locality": "COLOMOS", "lat": 22.9, "lon": -104.6167, "doses": 21, "date": "20 AL 22/04/2026"}, {"locality": "LAS JOYAS", "lat": 23.3667, "lon": -104.7833, "doses": 1395, "date": "2026-03-01 00:00:00, 2026-03-28 00:00:00"}, {"locality": "SAN MANUEL", "lat": 23.4167, "lon": -104.8333, "doses": 124, "date": "23 AL 24 DE ABRIL2026"}, {"locality": "TRES LAGUNAS", "lat": 23.4667, "lon": -104.8833, "doses": 105, "date": "23 AL 24 DE ABRIL2026"}, {"locality": "CARBONERAS", "lat": 23.5167, "lon": -104.9333, "doses": 125, "date": "23 AL 24 DE ABRIL2026"}, {"locality": "ARMADILLOS", "lat": 23.5667, "lon": -104.9833, "doses": 129, "date": "2026-04-12 00:00:00"}, {"locality": "CUMBRES", "lat": 23.6167, "lon": -105.0333, "doses": 4, "date": "2026-04-12 00:00:00"}, {"locality": "BOTIJAS", "lat": 23.2667, "lon": -104.7667, "doses": 110, "date": "20 AL 22/04/2026, 2026-04-12 00:00:00"}, {"locality": "PINO PARADO", "lat": 23.3167, "lon": -104.7167, "doses": 9, "date": "20 AL 22/04/2026, 2026-04-12 00:00:00"}, {"locality": "LAS AGUILILLAS", "lat": 23.35, "lon": -104.45, "doses": 432, "date": "2026-01-29 00:00:00"}, {"locality": "CERRO BOLILLO", "lat": 23.05, "lon": -104.65, "doses": 517, "date": "2026-02-24 00:00:00, 2026-03-03 00:00:00"}, {"locality": "BERENJENAS", "lat": 23.08, "lon": -104.8, "doses": 4, "date": "20 AL 22/04/2026"}, {"locality": "AMOLES", "lat": 23.15, "lon": -104.62, "doses": 159, "date": "20 AL 22/04/2026"}, {"locality": "POTREROS", "lat": 23.02, "lon": -104.55, "doses": 90, "date": "20 AL 22/04/2026"}, {"locality": "AGUACATES(ANGOSTURA)", "lat": 23.08, "lon": -104.58, "doses": 121, "date": "20 AL 22/04/2026"}, {"locality": "ZAPOTES", "lat": 23.2, "lon": -104.65, "doses": 7, "date": "20 AL 22/04/2026"}, {"locality": "CEBOLLAS", "lat": 23.25, "lon": -104.85, "doses": 3, "date": "20 AL 22/04/2026"}];
+         
+         data.forEach(loc => {
+            // Paint Area (Zone of influence) - Increased for visibility
+            L.circle([loc.lat, loc.lon], {
+                radius: 4000, // 4km radius
+                fillColor: "#16a34a",
+                color: "#15803d", // Darker green border
+                weight: 1,
+                fillOpacity: 0.5 // More solid
+            }).addTo(map);
+
+            const marker = L.circleMarker([loc.lat, loc.lon], {
+                radius: 6,
+                fillColor: "#15803d",
+                color: "#fff",
+                weight: 2,
+                opacity: 1,
+                fillOpacity: 1
+            }).addTo(map);
+
+            marker.bindTooltip(loc.locality, {
+                permanent: true,
+                direction: 'right',
+                offset: [10, 0],
+                className: 'locality-label'
+            });
+            
+            marker.bindPopup(`
+                <div class="municipality-info">
+                    <h3 style="color:#15803d; margin-bottom:10px;">${loc.locality}</h3>
+                    <div class="stat">
+                        <span class="stat-label">Dosis Aplicadas:</span>
+                        <span class="stat-value">${loc.doses}</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-label">Fecha de Atención:</span>
+                        <span class="stat-value">${loc.date}</span>
+                    </div>
+                </div>
+            `);
+        });
+    </script>
+</body>
+</html>

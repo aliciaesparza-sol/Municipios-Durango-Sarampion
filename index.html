@@ -28,15 +28,20 @@
             <div class="legend-item"><span class="color-box" style="background: #ef4444;"></span> Crítico (<80%)</div>
         </div>
 
-        <div style="margin-top: 20px; border-top: 1px solid var(--glass-border); padding-top: 15px;">
+        <div style="margin-top: 20px; border-top: 1px solid var(--glass-border); padding-top: 15px; display: flex; flex-direction: column; gap: 10px;">
             <a href="mapa_2025.html" style="color: #818cf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; justify-content: space-between;">
                 Ver Mapa Pre-Brote 2025 <span>→</span>
+            </a>
+            <a href="Mapa_Mezquital_Localidades.html" style="color: #4ade80; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; justify-content: space-between;">
+                Ver Localidades Mezquital <span>→</span>
             </a>
         </div>
     </div>
     <div id="map"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="municipios_geo.js"></script>
+    <script src="coverage_2026.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
