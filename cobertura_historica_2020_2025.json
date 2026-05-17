@@ -1,0 +1,1184 @@
+{
+    "2020": {
+        "Canatlán": {
+            "poblacion_menor_49": 22608,
+            "dosis_aplicadas": 1440,
+            "cobertura_pct": 6.37
+        },
+        "Canelas": {
+            "poblacion_menor_49": 3111,
+            "dosis_aplicadas": 1066,
+            "cobertura_pct": 34.27
+        },
+        "Coneto de Comonfort": {
+            "poblacion_menor_49": 3261,
+            "dosis_aplicadas": 344,
+            "cobertura_pct": 10.55
+        },
+        "Cuencamé": {
+            "poblacion_menor_49": 24238,
+            "dosis_aplicadas": 1458,
+            "cobertura_pct": 6.02
+        },
+        "Durango": {
+            "poblacion_menor_49": 495861,
+            "dosis_aplicadas": 23044,
+            "cobertura_pct": 4.65
+        },
+        "El Oro": {
+            "poblacion_menor_49": 7476,
+            "dosis_aplicadas": 980,
+            "cobertura_pct": 13.11
+        },
+        "General Simón Bolívar": {
+            "poblacion_menor_49": 7227,
+            "dosis_aplicadas": 486,
+            "cobertura_pct": 6.72
+        },
+        "Guadalupe Victoria": {
+            "poblacion_menor_49": 26420,
+            "dosis_aplicadas": 912,
+            "cobertura_pct": 3.45
+        },
+        "Guanaceví": {
+            "poblacion_menor_49": 7105,
+            "dosis_aplicadas": 484,
+            "cobertura_pct": 6.81
+        },
+        "Gómez Palacio": {
+            "poblacion_menor_49": 268380,
+            "dosis_aplicadas": 12980,
+            "cobertura_pct": 4.84
+        },
+        "Hidalgo": {
+            "poblacion_menor_49": 2766,
+            "dosis_aplicadas": 216,
+            "cobertura_pct": 7.81
+        },
+        "Indé": {
+            "poblacion_menor_49": 3418,
+            "dosis_aplicadas": 110,
+            "cobertura_pct": 3.22
+        },
+        "Lerdo": {
+            "poblacion_menor_49": 117585,
+            "dosis_aplicadas": 5522,
+            "cobertura_pct": 4.7
+        },
+        "Mapimí": {
+            "poblacion_menor_49": 23410,
+            "dosis_aplicadas": 1282,
+            "cobertura_pct": 5.48
+        },
+        "Mezquital": {
+            "poblacion_menor_49": 34979,
+            "dosis_aplicadas": 3922,
+            "cobertura_pct": 11.21
+        },
+        "Nazas": {
+            "poblacion_menor_49": 9283,
+            "dosis_aplicadas": 1066,
+            "cobertura_pct": 11.48
+        },
+        "Nombre de Dios": {
+            "poblacion_menor_49": 13723,
+            "dosis_aplicadas": 662,
+            "cobertura_pct": 4.82
+        },
+        "Nuevo Ideal": {
+            "poblacion_menor_49": 20146,
+            "dosis_aplicadas": 1324,
+            "cobertura_pct": 6.57
+        },
+        "Ocampo": {
+            "poblacion_menor_49": 5762,
+            "dosis_aplicadas": 484,
+            "cobertura_pct": 8.4
+        },
+        "Otáez": {
+            "poblacion_menor_49": 3545,
+            "dosis_aplicadas": 514,
+            "cobertura_pct": 14.5
+        },
+        "Peñón Blanco": {
+            "poblacion_menor_49": 8004,
+            "dosis_aplicadas": 632,
+            "cobertura_pct": 7.9
+        },
+        "Poanas": {
+            "poblacion_menor_49": 18448,
+            "dosis_aplicadas": 380,
+            "cobertura_pct": 2.06
+        },
+        "Pueblo Nuevo": {
+            "poblacion_menor_49": 36913,
+            "dosis_aplicadas": 3642,
+            "cobertura_pct": 9.87
+        },
+        "Pánuco de Coronado": {
+            "poblacion_menor_49": 9112,
+            "dosis_aplicadas": 244,
+            "cobertura_pct": 2.68
+        },
+        "Rodeo": {
+            "poblacion_menor_49": 9234,
+            "dosis_aplicadas": 1398,
+            "cobertura_pct": 15.14
+        },
+        "San Bernardo": {
+            "poblacion_menor_49": 2042,
+            "dosis_aplicadas": 372,
+            "cobertura_pct": 18.22
+        },
+        "San Dimas": {
+            "poblacion_menor_49": 12479,
+            "dosis_aplicadas": 1426,
+            "cobertura_pct": 11.43
+        },
+        "San Juan de Guadalupe": {
+            "poblacion_menor_49": 3780,
+            "dosis_aplicadas": 462,
+            "cobertura_pct": 12.22
+        },
+        "San Juan del Río": {
+            "poblacion_menor_49": 8793,
+            "dosis_aplicadas": 2346,
+            "cobertura_pct": 26.68
+        },
+        "San Luis del Cordero": {
+            "poblacion_menor_49": 1514,
+            "dosis_aplicadas": 210,
+            "cobertura_pct": 13.87
+        },
+        "San Pedro del Gallo": {
+            "poblacion_menor_49": 1175,
+            "dosis_aplicadas": 50,
+            "cobertura_pct": 4.26
+        },
+        "Santa Clara": {
+            "poblacion_menor_49": 4843,
+            "dosis_aplicadas": 492,
+            "cobertura_pct": 10.16
+        },
+        "Santiago Papasquiaro": {
+            "poblacion_menor_49": 35429,
+            "dosis_aplicadas": 2980,
+            "cobertura_pct": 8.41
+        },
+        "Súchil": {
+            "poblacion_menor_49": 4988,
+            "dosis_aplicadas": 216,
+            "cobertura_pct": 4.33
+        },
+        "Tamazula": {
+            "poblacion_menor_49": 18984,
+            "dosis_aplicadas": 2552,
+            "cobertura_pct": 13.44
+        },
+        "Tepehuanes": {
+            "poblacion_menor_49": 8192,
+            "dosis_aplicadas": 760,
+            "cobertura_pct": 9.28
+        },
+        "Tlahualilo": {
+            "poblacion_menor_49": 15280,
+            "dosis_aplicadas": 1248,
+            "cobertura_pct": 8.17
+        },
+        "Topia": {
+            "poblacion_menor_49": 6710,
+            "dosis_aplicadas": 604,
+            "cobertura_pct": 9.0
+        },
+        "Vicente Guerrero": {
+            "poblacion_menor_49": 16902,
+            "dosis_aplicadas": 520,
+            "cobertura_pct": 3.08
+        }
+    },
+    "2021": {
+        "Canatlán": {
+            "poblacion_menor_49": 22879,
+            "dosis_aplicadas": 3696,
+            "cobertura_pct": 16.15
+        },
+        "Canelas": {
+            "poblacion_menor_49": 3147,
+            "dosis_aplicadas": 1820,
+            "cobertura_pct": 57.83
+        },
+        "Coneto de Comonfort": {
+            "poblacion_menor_49": 3300,
+            "dosis_aplicadas": 704,
+            "cobertura_pct": 21.33
+        },
+        "Cuencamé": {
+            "poblacion_menor_49": 24528,
+            "dosis_aplicadas": 3894,
+            "cobertura_pct": 15.88
+        },
+        "Durango": {
+            "poblacion_menor_49": 501811,
+            "dosis_aplicadas": 40392,
+            "cobertura_pct": 8.05
+        },
+        "El Oro": {
+            "poblacion_menor_49": 7565,
+            "dosis_aplicadas": 1876,
+            "cobertura_pct": 24.8
+        },
+        "General Simón Bolívar": {
+            "poblacion_menor_49": 7313,
+            "dosis_aplicadas": 1256,
+            "cobertura_pct": 17.17
+        },
+        "Guadalupe Victoria": {
+            "poblacion_menor_49": 26737,
+            "dosis_aplicadas": 2580,
+            "cobertura_pct": 9.65
+        },
+        "Guanaceví": {
+            "poblacion_menor_49": 7190,
+            "dosis_aplicadas": 1052,
+            "cobertura_pct": 14.63
+        },
+        "Gómez Palacio": {
+            "poblacion_menor_49": 271600,
+            "dosis_aplicadas": 32052,
+            "cobertura_pct": 11.8
+        },
+        "Hidalgo": {
+            "poblacion_menor_49": 2800,
+            "dosis_aplicadas": 496,
+            "cobertura_pct": 17.71
+        },
+        "Indé": {
+            "poblacion_menor_49": 3458,
+            "dosis_aplicadas": 396,
+            "cobertura_pct": 11.45
+        },
+        "Lerdo": {
+            "poblacion_menor_49": 118995,
+            "dosis_aplicadas": 19914,
+            "cobertura_pct": 16.74
+        },
+        "Mapimí": {
+            "poblacion_menor_49": 23690,
+            "dosis_aplicadas": 3980,
+            "cobertura_pct": 16.8
+        },
+        "Mezquital": {
+            "poblacion_menor_49": 35398,
+            "dosis_aplicadas": 6070,
+            "cobertura_pct": 17.15
+        },
+        "Nazas": {
+            "poblacion_menor_49": 9394,
+            "dosis_aplicadas": 2034,
+            "cobertura_pct": 21.65
+        },
+        "Nombre de Dios": {
+            "poblacion_menor_49": 13887,
+            "dosis_aplicadas": 1452,
+            "cobertura_pct": 10.46
+        },
+        "Nuevo Ideal": {
+            "poblacion_menor_49": 20387,
+            "dosis_aplicadas": 4012,
+            "cobertura_pct": 19.68
+        },
+        "Ocampo": {
+            "poblacion_menor_49": 5831,
+            "dosis_aplicadas": 688,
+            "cobertura_pct": 11.8
+        },
+        "Otáez": {
+            "poblacion_menor_49": 3587,
+            "dosis_aplicadas": 1434,
+            "cobertura_pct": 39.98
+        },
+        "Peñón Blanco": {
+            "poblacion_menor_49": 8100,
+            "dosis_aplicadas": 1450,
+            "cobertura_pct": 17.9
+        },
+        "Poanas": {
+            "poblacion_menor_49": 18669,
+            "dosis_aplicadas": 400,
+            "cobertura_pct": 2.14
+        },
+        "Pueblo Nuevo": {
+            "poblacion_menor_49": 37356,
+            "dosis_aplicadas": 8488,
+            "cobertura_pct": 22.72
+        },
+        "Pánuco de Coronado": {
+            "poblacion_menor_49": 9221,
+            "dosis_aplicadas": 1568,
+            "cobertura_pct": 17.0
+        },
+        "Rodeo": {
+            "poblacion_menor_49": 9344,
+            "dosis_aplicadas": 1182,
+            "cobertura_pct": 12.65
+        },
+        "San Bernardo": {
+            "poblacion_menor_49": 2067,
+            "dosis_aplicadas": 228,
+            "cobertura_pct": 11.03
+        },
+        "San Dimas": {
+            "poblacion_menor_49": 12628,
+            "dosis_aplicadas": 4226,
+            "cobertura_pct": 33.47
+        },
+        "San Juan de Guadalupe": {
+            "poblacion_menor_49": 3826,
+            "dosis_aplicadas": 906,
+            "cobertura_pct": 23.68
+        },
+        "San Juan del Río": {
+            "poblacion_menor_49": 8898,
+            "dosis_aplicadas": 2052,
+            "cobertura_pct": 23.06
+        },
+        "San Luis del Cordero": {
+            "poblacion_menor_49": 1532,
+            "dosis_aplicadas": 328,
+            "cobertura_pct": 21.41
+        },
+        "San Pedro del Gallo": {
+            "poblacion_menor_49": 1189,
+            "dosis_aplicadas": 140,
+            "cobertura_pct": 11.77
+        },
+        "Santa Clara": {
+            "poblacion_menor_49": 4901,
+            "dosis_aplicadas": 918,
+            "cobertura_pct": 18.73
+        },
+        "Santiago Papasquiaro": {
+            "poblacion_menor_49": 35853,
+            "dosis_aplicadas": 9230,
+            "cobertura_pct": 25.74
+        },
+        "Súchil": {
+            "poblacion_menor_49": 5047,
+            "dosis_aplicadas": 1514,
+            "cobertura_pct": 30.0
+        },
+        "Tamazula": {
+            "poblacion_menor_49": 19212,
+            "dosis_aplicadas": 7484,
+            "cobertura_pct": 38.95
+        },
+        "Tepehuanes": {
+            "poblacion_menor_49": 8290,
+            "dosis_aplicadas": 2164,
+            "cobertura_pct": 26.1
+        },
+        "Tlahualilo": {
+            "poblacion_menor_49": 15463,
+            "dosis_aplicadas": 3872,
+            "cobertura_pct": 25.04
+        },
+        "Topia": {
+            "poblacion_menor_49": 6790,
+            "dosis_aplicadas": 1796,
+            "cobertura_pct": 26.45
+        },
+        "Vicente Guerrero": {
+            "poblacion_menor_49": 17105,
+            "dosis_aplicadas": 532,
+            "cobertura_pct": 3.11
+        }
+    },
+    "2022": {
+        "Canatlán": {
+            "poblacion_menor_49": 23154,
+            "dosis_aplicadas": 1614,
+            "cobertura_pct": 6.97
+        },
+        "Canelas": {
+            "poblacion_menor_49": 3186,
+            "dosis_aplicadas": 276,
+            "cobertura_pct": 8.66
+        },
+        "Coneto de Comonfort": {
+            "poblacion_menor_49": 3340,
+            "dosis_aplicadas": 678,
+            "cobertura_pct": 20.3
+        },
+        "Cuencamé": {
+            "poblacion_menor_49": 24822,
+            "dosis_aplicadas": 1100,
+            "cobertura_pct": 4.43
+        },
+        "Durango": {
+            "poblacion_menor_49": 507833,
+            "dosis_aplicadas": 18430,
+            "cobertura_pct": 3.63
+        },
+        "El Oro": {
+            "poblacion_menor_49": 7656,
+            "dosis_aplicadas": 848,
+            "cobertura_pct": 11.08
+        },
+        "General Simón Bolívar": {
+            "poblacion_menor_49": 7401,
+            "dosis_aplicadas": 206,
+            "cobertura_pct": 2.78
+        },
+        "Guadalupe Victoria": {
+            "poblacion_menor_49": 27057,
+            "dosis_aplicadas": 1836,
+            "cobertura_pct": 6.79
+        },
+        "Guanaceví": {
+            "poblacion_menor_49": 7277,
+            "dosis_aplicadas": 214,
+            "cobertura_pct": 2.94
+        },
+        "Gómez Palacio": {
+            "poblacion_menor_49": 274859,
+            "dosis_aplicadas": 8066,
+            "cobertura_pct": 2.93
+        },
+        "Hidalgo": {
+            "poblacion_menor_49": 2833,
+            "dosis_aplicadas": 180,
+            "cobertura_pct": 6.35
+        },
+        "Indé": {
+            "poblacion_menor_49": 3500,
+            "dosis_aplicadas": 162,
+            "cobertura_pct": 4.63
+        },
+        "Lerdo": {
+            "poblacion_menor_49": 120424,
+            "dosis_aplicadas": 5864,
+            "cobertura_pct": 4.87
+        },
+        "Mapimí": {
+            "poblacion_menor_49": 23975,
+            "dosis_aplicadas": 1396,
+            "cobertura_pct": 5.82
+        },
+        "Mezquital": {
+            "poblacion_menor_49": 35823,
+            "dosis_aplicadas": 2602,
+            "cobertura_pct": 7.26
+        },
+        "Nazas": {
+            "poblacion_menor_49": 9507,
+            "dosis_aplicadas": 814,
+            "cobertura_pct": 8.56
+        },
+        "Nombre de Dios": {
+            "poblacion_menor_49": 14054,
+            "dosis_aplicadas": 1474,
+            "cobertura_pct": 10.49
+        },
+        "Nuevo Ideal": {
+            "poblacion_menor_49": 20632,
+            "dosis_aplicadas": 990,
+            "cobertura_pct": 4.8
+        },
+        "Ocampo": {
+            "poblacion_menor_49": 5901,
+            "dosis_aplicadas": 540,
+            "cobertura_pct": 9.15
+        },
+        "Otáez": {
+            "poblacion_menor_49": 3630,
+            "dosis_aplicadas": 412,
+            "cobertura_pct": 11.35
+        },
+        "Peñón Blanco": {
+            "poblacion_menor_49": 8197,
+            "dosis_aplicadas": 602,
+            "cobertura_pct": 7.34
+        },
+        "Poanas": {
+            "poblacion_menor_49": 18893,
+            "dosis_aplicadas": 364,
+            "cobertura_pct": 1.93
+        },
+        "Pueblo Nuevo": {
+            "poblacion_menor_49": 37804,
+            "dosis_aplicadas": 2678,
+            "cobertura_pct": 7.08
+        },
+        "Pánuco de Coronado": {
+            "poblacion_menor_49": 9331,
+            "dosis_aplicadas": 584,
+            "cobertura_pct": 6.26
+        },
+        "Rodeo": {
+            "poblacion_menor_49": 9457,
+            "dosis_aplicadas": 826,
+            "cobertura_pct": 8.73
+        },
+        "San Bernardo": {
+            "poblacion_menor_49": 2091,
+            "dosis_aplicadas": 106,
+            "cobertura_pct": 5.07
+        },
+        "San Dimas": {
+            "poblacion_menor_49": 12780,
+            "dosis_aplicadas": 1184,
+            "cobertura_pct": 9.26
+        },
+        "San Juan de Guadalupe": {
+            "poblacion_menor_49": 3871,
+            "dosis_aplicadas": 260,
+            "cobertura_pct": 6.72
+        },
+        "San Juan del Río": {
+            "poblacion_menor_49": 9005,
+            "dosis_aplicadas": 1208,
+            "cobertura_pct": 13.41
+        },
+        "San Luis del Cordero": {
+            "poblacion_menor_49": 1550,
+            "dosis_aplicadas": 186,
+            "cobertura_pct": 12.0
+        },
+        "San Pedro del Gallo": {
+            "poblacion_menor_49": 1203,
+            "dosis_aplicadas": 30,
+            "cobertura_pct": 2.49
+        },
+        "Santa Clara": {
+            "poblacion_menor_49": 4960,
+            "dosis_aplicadas": 298,
+            "cobertura_pct": 6.01
+        },
+        "Santiago Papasquiaro": {
+            "poblacion_menor_49": 36284,
+            "dosis_aplicadas": 3306,
+            "cobertura_pct": 9.11
+        },
+        "Súchil": {
+            "poblacion_menor_49": 5108,
+            "dosis_aplicadas": 362,
+            "cobertura_pct": 7.09
+        },
+        "Tamazula": {
+            "poblacion_menor_49": 19442,
+            "dosis_aplicadas": 2070,
+            "cobertura_pct": 10.65
+        },
+        "Tepehuanes": {
+            "poblacion_menor_49": 8389,
+            "dosis_aplicadas": 616,
+            "cobertura_pct": 7.34
+        },
+        "Tlahualilo": {
+            "poblacion_menor_49": 15649,
+            "dosis_aplicadas": 1090,
+            "cobertura_pct": 6.97
+        },
+        "Topia": {
+            "poblacion_menor_49": 6872,
+            "dosis_aplicadas": 562,
+            "cobertura_pct": 8.18
+        },
+        "Vicente Guerrero": {
+            "poblacion_menor_49": 17310,
+            "dosis_aplicadas": 472,
+            "cobertura_pct": 2.73
+        }
+    },
+    "2023": {
+        "Canatlán": {
+            "poblacion_menor_49": 23432,
+            "dosis_aplicadas": 1104,
+            "cobertura_pct": 4.71
+        },
+        "Canelas": {
+            "poblacion_menor_49": 3224,
+            "dosis_aplicadas": 972,
+            "cobertura_pct": 30.15
+        },
+        "Coneto de Comonfort": {
+            "poblacion_menor_49": 3380,
+            "dosis_aplicadas": 274,
+            "cobertura_pct": 8.11
+        },
+        "Cuencamé": {
+            "poblacion_menor_49": 25120,
+            "dosis_aplicadas": 2292,
+            "cobertura_pct": 9.12
+        },
+        "Durango": {
+            "poblacion_menor_49": 513927,
+            "dosis_aplicadas": 19738,
+            "cobertura_pct": 3.84
+        },
+        "El Oro": {
+            "poblacion_menor_49": 7748,
+            "dosis_aplicadas": 862,
+            "cobertura_pct": 11.13
+        },
+        "General Simón Bolívar": {
+            "poblacion_menor_49": 7490,
+            "dosis_aplicadas": 560,
+            "cobertura_pct": 7.48
+        },
+        "Guadalupe Victoria": {
+            "poblacion_menor_49": 27382,
+            "dosis_aplicadas": 1776,
+            "cobertura_pct": 6.49
+        },
+        "Guanaceví": {
+            "poblacion_menor_49": 7364,
+            "dosis_aplicadas": 494,
+            "cobertura_pct": 6.71
+        },
+        "Gómez Palacio": {
+            "poblacion_menor_49": 278157,
+            "dosis_aplicadas": 14346,
+            "cobertura_pct": 5.16
+        },
+        "Hidalgo": {
+            "poblacion_menor_49": 2867,
+            "dosis_aplicadas": 186,
+            "cobertura_pct": 6.49
+        },
+        "Indé": {
+            "poblacion_menor_49": 3542,
+            "dosis_aplicadas": 194,
+            "cobertura_pct": 5.48
+        },
+        "Lerdo": {
+            "poblacion_menor_49": 121869,
+            "dosis_aplicadas": 8166,
+            "cobertura_pct": 6.7
+        },
+        "Mapimí": {
+            "poblacion_menor_49": 24262,
+            "dosis_aplicadas": 1672,
+            "cobertura_pct": 6.89
+        },
+        "Mezquital": {
+            "poblacion_menor_49": 36254,
+            "dosis_aplicadas": 10616,
+            "cobertura_pct": 29.28
+        },
+        "Nazas": {
+            "poblacion_menor_49": 9621,
+            "dosis_aplicadas": 2174,
+            "cobertura_pct": 22.6
+        },
+        "Nombre de Dios": {
+            "poblacion_menor_49": 14222,
+            "dosis_aplicadas": 598,
+            "cobertura_pct": 4.2
+        },
+        "Nuevo Ideal": {
+            "poblacion_menor_49": 20880,
+            "dosis_aplicadas": 1300,
+            "cobertura_pct": 6.23
+        },
+        "Ocampo": {
+            "poblacion_menor_49": 5971,
+            "dosis_aplicadas": 392,
+            "cobertura_pct": 6.57
+        },
+        "Otáez": {
+            "poblacion_menor_49": 3674,
+            "dosis_aplicadas": 508,
+            "cobertura_pct": 13.83
+        },
+        "Peñón Blanco": {
+            "poblacion_menor_49": 8296,
+            "dosis_aplicadas": 808,
+            "cobertura_pct": 9.74
+        },
+        "Poanas": {
+            "poblacion_menor_49": 19120,
+            "dosis_aplicadas": 524,
+            "cobertura_pct": 2.74
+        },
+        "Pueblo Nuevo": {
+            "poblacion_menor_49": 38257,
+            "dosis_aplicadas": 2594,
+            "cobertura_pct": 6.78
+        },
+        "Pánuco de Coronado": {
+            "poblacion_menor_49": 9444,
+            "dosis_aplicadas": 532,
+            "cobertura_pct": 5.63
+        },
+        "Rodeo": {
+            "poblacion_menor_49": 9570,
+            "dosis_aplicadas": 1104,
+            "cobertura_pct": 11.54
+        },
+        "San Bernardo": {
+            "poblacion_menor_49": 2116,
+            "dosis_aplicadas": 230,
+            "cobertura_pct": 10.87
+        },
+        "San Dimas": {
+            "poblacion_menor_49": 12934,
+            "dosis_aplicadas": 2406,
+            "cobertura_pct": 18.6
+        },
+        "San Juan de Guadalupe": {
+            "poblacion_menor_49": 3918,
+            "dosis_aplicadas": 1178,
+            "cobertura_pct": 30.07
+        },
+        "San Juan del Río": {
+            "poblacion_menor_49": 9113,
+            "dosis_aplicadas": 710,
+            "cobertura_pct": 7.79
+        },
+        "San Luis del Cordero": {
+            "poblacion_menor_49": 1568,
+            "dosis_aplicadas": 454,
+            "cobertura_pct": 28.95
+        },
+        "San Pedro del Gallo": {
+            "poblacion_menor_49": 1218,
+            "dosis_aplicadas": 272,
+            "cobertura_pct": 22.33
+        },
+        "Santa Clara": {
+            "poblacion_menor_49": 5019,
+            "dosis_aplicadas": 978,
+            "cobertura_pct": 19.49
+        },
+        "Santiago Papasquiaro": {
+            "poblacion_menor_49": 36719,
+            "dosis_aplicadas": 2884,
+            "cobertura_pct": 7.85
+        },
+        "Súchil": {
+            "poblacion_menor_49": 5169,
+            "dosis_aplicadas": 566,
+            "cobertura_pct": 10.95
+        },
+        "Tamazula": {
+            "poblacion_menor_49": 19676,
+            "dosis_aplicadas": 4074,
+            "cobertura_pct": 20.71
+        },
+        "Tepehuanes": {
+            "poblacion_menor_49": 8490,
+            "dosis_aplicadas": 872,
+            "cobertura_pct": 10.27
+        },
+        "Tlahualilo": {
+            "poblacion_menor_49": 15837,
+            "dosis_aplicadas": 1458,
+            "cobertura_pct": 9.21
+        },
+        "Topia": {
+            "poblacion_menor_49": 6954,
+            "dosis_aplicadas": 774,
+            "cobertura_pct": 11.13
+        },
+        "Vicente Guerrero": {
+            "poblacion_menor_49": 17518,
+            "dosis_aplicadas": 800,
+            "cobertura_pct": 4.57
+        }
+    },
+    "2024": {
+        "Canatlán": {
+            "poblacion_menor_49": 23713,
+            "dosis_aplicadas": 2742,
+            "cobertura_pct": 11.56
+        },
+        "Canelas": {
+            "poblacion_menor_49": 3263,
+            "dosis_aplicadas": 1178,
+            "cobertura_pct": 36.1
+        },
+        "Coneto de Comonfort": {
+            "poblacion_menor_49": 3420,
+            "dosis_aplicadas": 314,
+            "cobertura_pct": 9.18
+        },
+        "Cuencamé": {
+            "poblacion_menor_49": 25422,
+            "dosis_aplicadas": 1600,
+            "cobertura_pct": 6.29
+        },
+        "Durango": {
+            "poblacion_menor_49": 520094,
+            "dosis_aplicadas": 25820,
+            "cobertura_pct": 4.96
+        },
+        "El Oro": {
+            "poblacion_menor_49": 7841,
+            "dosis_aplicadas": 1034,
+            "cobertura_pct": 13.19
+        },
+        "General Simón Bolívar": {
+            "poblacion_menor_49": 7580,
+            "dosis_aplicadas": 530,
+            "cobertura_pct": 6.99
+        },
+        "Guadalupe Victoria": {
+            "poblacion_menor_49": 27711,
+            "dosis_aplicadas": 1070,
+            "cobertura_pct": 3.86
+        },
+        "Guanaceví": {
+            "poblacion_menor_49": 7452,
+            "dosis_aplicadas": 366,
+            "cobertura_pct": 4.91
+        },
+        "Gómez Palacio": {
+            "poblacion_menor_49": 281495,
+            "dosis_aplicadas": 18970,
+            "cobertura_pct": 6.74
+        },
+        "Hidalgo": {
+            "poblacion_menor_49": 2901,
+            "dosis_aplicadas": 212,
+            "cobertura_pct": 7.31
+        },
+        "Indé": {
+            "poblacion_menor_49": 3585,
+            "dosis_aplicadas": 282,
+            "cobertura_pct": 7.87
+        },
+        "Lerdo": {
+            "poblacion_menor_49": 123331,
+            "dosis_aplicadas": 9068,
+            "cobertura_pct": 7.35
+        },
+        "Mapimí": {
+            "poblacion_menor_49": 24553,
+            "dosis_aplicadas": 1896,
+            "cobertura_pct": 7.72
+        },
+        "Mezquital": {
+            "poblacion_menor_49": 36689,
+            "dosis_aplicadas": 6930,
+            "cobertura_pct": 18.89
+        },
+        "Nazas": {
+            "poblacion_menor_49": 9737,
+            "dosis_aplicadas": 1414,
+            "cobertura_pct": 14.52
+        },
+        "Nombre de Dios": {
+            "poblacion_menor_49": 14393,
+            "dosis_aplicadas": 670,
+            "cobertura_pct": 4.66
+        },
+        "Nuevo Ideal": {
+            "poblacion_menor_49": 21130,
+            "dosis_aplicadas": 2648,
+            "cobertura_pct": 12.53
+        },
+        "Ocampo": {
+            "poblacion_menor_49": 6043,
+            "dosis_aplicadas": 452,
+            "cobertura_pct": 7.48
+        },
+        "Otáez": {
+            "poblacion_menor_49": 3718,
+            "dosis_aplicadas": 800,
+            "cobertura_pct": 21.52
+        },
+        "Peñón Blanco": {
+            "poblacion_menor_49": 8395,
+            "dosis_aplicadas": 592,
+            "cobertura_pct": 7.05
+        },
+        "Poanas": {
+            "poblacion_menor_49": 19350,
+            "dosis_aplicadas": 416,
+            "cobertura_pct": 2.15
+        },
+        "Pueblo Nuevo": {
+            "poblacion_menor_49": 38717,
+            "dosis_aplicadas": 2844,
+            "cobertura_pct": 7.35
+        },
+        "Pánuco de Coronado": {
+            "poblacion_menor_49": 9557,
+            "dosis_aplicadas": 548,
+            "cobertura_pct": 5.73
+        },
+        "Rodeo": {
+            "poblacion_menor_49": 9685,
+            "dosis_aplicadas": 486,
+            "cobertura_pct": 5.02
+        },
+        "San Bernardo": {
+            "poblacion_menor_49": 2142,
+            "dosis_aplicadas": 280,
+            "cobertura_pct": 13.07
+        },
+        "San Dimas": {
+            "poblacion_menor_49": 13089,
+            "dosis_aplicadas": 2668,
+            "cobertura_pct": 20.38
+        },
+        "San Juan de Guadalupe": {
+            "poblacion_menor_49": 3965,
+            "dosis_aplicadas": 780,
+            "cobertura_pct": 19.67
+        },
+        "San Juan del Río": {
+            "poblacion_menor_49": 9222,
+            "dosis_aplicadas": 872,
+            "cobertura_pct": 9.46
+        },
+        "San Luis del Cordero": {
+            "poblacion_menor_49": 1587,
+            "dosis_aplicadas": 352,
+            "cobertura_pct": 22.18
+        },
+        "San Pedro del Gallo": {
+            "poblacion_menor_49": 1232,
+            "dosis_aplicadas": 118,
+            "cobertura_pct": 9.58
+        },
+        "Santa Clara": {
+            "poblacion_menor_49": 5079,
+            "dosis_aplicadas": 554,
+            "cobertura_pct": 10.91
+        },
+        "Santiago Papasquiaro": {
+            "poblacion_menor_49": 37159,
+            "dosis_aplicadas": 5708,
+            "cobertura_pct": 15.36
+        },
+        "Súchil": {
+            "poblacion_menor_49": 5231,
+            "dosis_aplicadas": 392,
+            "cobertura_pct": 7.49
+        },
+        "Tamazula": {
+            "poblacion_menor_49": 19912,
+            "dosis_aplicadas": 3746,
+            "cobertura_pct": 18.81
+        },
+        "Tepehuanes": {
+            "poblacion_menor_49": 8592,
+            "dosis_aplicadas": 1686,
+            "cobertura_pct": 19.62
+        },
+        "Tlahualilo": {
+            "poblacion_menor_49": 16027,
+            "dosis_aplicadas": 1780,
+            "cobertura_pct": 11.11
+        },
+        "Topia": {
+            "poblacion_menor_49": 7038,
+            "dosis_aplicadas": 570,
+            "cobertura_pct": 8.1
+        },
+        "Vicente Guerrero": {
+            "poblacion_menor_49": 17728,
+            "dosis_aplicadas": 602,
+            "cobertura_pct": 3.4
+        }
+    },
+    "2025": {
+        "Canatlán": {
+            "poblacion_menor_49": 23997,
+            "dosis_aplicadas": 1773,
+            "cobertura_pct": 7.39
+        },
+        "Canelas": {
+            "poblacion_menor_49": 3301,
+            "dosis_aplicadas": 468,
+            "cobertura_pct": 14.18
+        },
+        "Coneto de Comonfort": {
+            "poblacion_menor_49": 3461,
+            "dosis_aplicadas": 275,
+            "cobertura_pct": 7.95
+        },
+        "Cuencamé": {
+            "poblacion_menor_49": 25727,
+            "dosis_aplicadas": 1697,
+            "cobertura_pct": 6.6
+        },
+        "Durango": {
+            "poblacion_menor_49": 526335,
+            "dosis_aplicadas": 29594,
+            "cobertura_pct": 5.62
+        },
+        "El Oro": {
+            "poblacion_menor_49": 7935,
+            "dosis_aplicadas": 1923,
+            "cobertura_pct": 24.23
+        },
+        "General Simón Bolívar": {
+            "poblacion_menor_49": 7670,
+            "dosis_aplicadas": 748,
+            "cobertura_pct": 9.75
+        },
+        "Guadalupe Victoria": {
+            "poblacion_menor_49": 28044,
+            "dosis_aplicadas": 2515,
+            "cobertura_pct": 8.97
+        },
+        "Guanaceví": {
+            "poblacion_menor_49": 7542,
+            "dosis_aplicadas": 517,
+            "cobertura_pct": 6.85
+        },
+        "Gómez Palacio": {
+            "poblacion_menor_49": 284873,
+            "dosis_aplicadas": 17378,
+            "cobertura_pct": 6.1
+        },
+        "Hidalgo": {
+            "poblacion_menor_49": 2936,
+            "dosis_aplicadas": 711,
+            "cobertura_pct": 24.22
+        },
+        "Indé": {
+            "poblacion_menor_49": 3628,
+            "dosis_aplicadas": 417,
+            "cobertura_pct": 11.49
+        },
+        "Lerdo": {
+            "poblacion_menor_49": 124811,
+            "dosis_aplicadas": 9056,
+            "cobertura_pct": 7.26
+        },
+        "Mapimí": {
+            "poblacion_menor_49": 24848,
+            "dosis_aplicadas": 6245,
+            "cobertura_pct": 25.13
+        },
+        "Mezquital": {
+            "poblacion_menor_49": 37128,
+            "dosis_aplicadas": 3669,
+            "cobertura_pct": 9.88
+        },
+        "Nazas": {
+            "poblacion_menor_49": 9853,
+            "dosis_aplicadas": 2129,
+            "cobertura_pct": 21.61
+        },
+        "Nombre de Dios": {
+            "poblacion_menor_49": 14566,
+            "dosis_aplicadas": 551,
+            "cobertura_pct": 3.78
+        },
+        "Nuevo Ideal": {
+            "poblacion_menor_49": 21384,
+            "dosis_aplicadas": 2811,
+            "cobertura_pct": 13.15
+        },
+        "Ocampo": {
+            "poblacion_menor_49": 6115,
+            "dosis_aplicadas": 731,
+            "cobertura_pct": 11.95
+        },
+        "Otáez": {
+            "poblacion_menor_49": 3762,
+            "dosis_aplicadas": 312,
+            "cobertura_pct": 8.29
+        },
+        "Peñón Blanco": {
+            "poblacion_menor_49": 8496,
+            "dosis_aplicadas": 610,
+            "cobertura_pct": 7.18
+        },
+        "Poanas": {
+            "poblacion_menor_49": 19581,
+            "dosis_aplicadas": 490,
+            "cobertura_pct": 2.5
+        },
+        "Pueblo Nuevo": {
+            "poblacion_menor_49": 39181,
+            "dosis_aplicadas": 3370,
+            "cobertura_pct": 8.6
+        },
+        "Pánuco de Coronado": {
+            "poblacion_menor_49": 9671,
+            "dosis_aplicadas": 773,
+            "cobertura_pct": 7.99
+        },
+        "Rodeo": {
+            "poblacion_menor_49": 9802,
+            "dosis_aplicadas": 770,
+            "cobertura_pct": 7.86
+        },
+        "San Bernardo": {
+            "poblacion_menor_49": 2167,
+            "dosis_aplicadas": 231,
+            "cobertura_pct": 10.66
+        },
+        "San Dimas": {
+            "poblacion_menor_49": 13246,
+            "dosis_aplicadas": 2151,
+            "cobertura_pct": 16.24
+        },
+        "San Juan de Guadalupe": {
+            "poblacion_menor_49": 4012,
+            "dosis_aplicadas": 660,
+            "cobertura_pct": 16.45
+        },
+        "San Juan del Río": {
+            "poblacion_menor_49": 9333,
+            "dosis_aplicadas": 1206,
+            "cobertura_pct": 12.92
+        },
+        "San Luis del Cordero": {
+            "poblacion_menor_49": 1607,
+            "dosis_aplicadas": 434,
+            "cobertura_pct": 27.01
+        },
+        "San Pedro del Gallo": {
+            "poblacion_menor_49": 1247,
+            "dosis_aplicadas": 158,
+            "cobertura_pct": 12.67
+        },
+        "Santa Clara": {
+            "poblacion_menor_49": 5140,
+            "dosis_aplicadas": 720,
+            "cobertura_pct": 14.01
+        },
+        "Santiago Papasquiaro": {
+            "poblacion_menor_49": 37606,
+            "dosis_aplicadas": 3936,
+            "cobertura_pct": 10.47
+        },
+        "Súchil": {
+            "poblacion_menor_49": 5294,
+            "dosis_aplicadas": 622,
+            "cobertura_pct": 11.75
+        },
+        "Tamazula": {
+            "poblacion_menor_49": 20151,
+            "dosis_aplicadas": 4522,
+            "cobertura_pct": 22.44
+        },
+        "Tepehuanes": {
+            "poblacion_menor_49": 8695,
+            "dosis_aplicadas": 756,
+            "cobertura_pct": 8.69
+        },
+        "Tlahualilo": {
+            "poblacion_menor_49": 16219,
+            "dosis_aplicadas": 2420,
+            "cobertura_pct": 14.92
+        },
+        "Topia": {
+            "poblacion_menor_49": 7122,
+            "dosis_aplicadas": 288,
+            "cobertura_pct": 4.04
+        },
+        "Vicente Guerrero": {
+            "poblacion_menor_49": 17940,
+            "dosis_aplicadas": 460,
+            "cobertura_pct": 2.56
+        }
+    }
+}
